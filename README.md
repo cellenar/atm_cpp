@@ -1,7 +1,9 @@
 # atm_cpp
 make simple atm with cpp_start_19_03_07
 
-# functions - 19.05.08(목) 기준
+# functions - 19.05.12(일) 기준
+## 구조체만으로 작성된 버전, 클래스로 작성된 버전 업데이트 완료(19.05.12)
+## 더 다양한 클래스의 개념은 조금씩 녹여내볼 예정
 # void main_run();
 ### main함수 속에는 이 함수만 기술 할 것이다. 즉 나머지 함수가 main_run()에 들어가있다.
 
