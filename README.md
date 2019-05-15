@@ -1,5 +1,5 @@
 # atm_cpp
-make simple atm with cpp_start_19_03_07
+make simple atm with cpp_structure && class && classDeep
 
 # functions - 19.05.12(일) 기준
 ## 구조체만으로 작성된 버전, 클래스로 작성된 버전 업데이트 완료(19.05.12)
