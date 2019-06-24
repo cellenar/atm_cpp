@@ -1,11 +1,16 @@
-# atm_cpp
+# atm_cpp (19.04 ~ 19.05)
 make simple atm with cpp_structure && class && classDeep
+
+# 19.06.24(월) 기준
+## c++의 객체지향 개념들이 함유된, (final version) 을 업데이트
+## 프로젝트 종결
 
 # functions - 19.05.12(일) 기준
 ## 구조체만으로 작성된 버전, 클래스로 작성된 버전 업데이트 완료(19.05.12)
 ## 더 다양한 클래스의 개념은 조금씩 녹여내볼 예정
 # void main_run();
 ### main함수 속에는 이 함수만 기술 할 것이다. 즉 나머지 함수가 main_run()에 들어가있다.
+
 
 # void main_menu();
 ### do while과 switch구문을 활용하여 atm 화면의 메인메뉴들을 보여주는 역할이다. 
